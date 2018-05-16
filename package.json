@@ -1,0 +1,19 @@
+{
+  "name": "tododjango",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hybrid-SyntaX/Todongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hybrid-SyntaX/Todongo/issues"
+  },
+  "homepage": "https://github.com/Hybrid-SyntaX/Todongo#readme"
+}
