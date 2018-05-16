@@ -26,7 +26,7 @@ SECRET_KEY = 'r8xw2yn+5&i)2nch=ubfit_syxu8o$@hh-pp!*wn9eh(ca2!6d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost']
 
 
 WEBPACK_LOADER = {
